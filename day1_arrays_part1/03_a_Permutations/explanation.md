@@ -1,0 +1,1 @@
+![img](/day1_arrays_part1/03_a_Permutations/Screenshot%202025-01-10%20at%205.41.44 PM.png)
